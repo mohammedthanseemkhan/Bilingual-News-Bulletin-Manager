@@ -1,0 +1,38 @@
+[
+   
+    {
+        "title_en": "Flood Warning Issued",
+        "title_ar": " تحذير من الفيضانات",
+        "desc_en": "Heavy rainfall expected across the southern districts in the next 48 hours.",
+        "desc_ar": "من المتوقع هطول أمطار غزيرة في المناطق الجنوبية خلال الـ 48 ساعة القادمة.",
+        "date": "2025-07-01 17:08:31"
+    },
+    {
+        "title_en": "New School Term Begins",
+        "title_ar": "بداية الفصل الدراسي الجديد",
+        "desc_en": "All schools will reopen from Monday, 8th July following summer break.",
+        "desc_ar": "جميع المدارس ستفتح أبوابها يوم الاثنين 8 يوليو بعد عطلة الصيف",
+        "date": "2025-07-01 17:09:44"
+    },
+    {
+        "title_en": "Electricity Maintenance Schedule",
+        "title_ar": "جدول صيانة الكهرباء",
+        "desc_en": "Power will be interrupted on 2nd July from 2 PM to 5 PM for maintenance.",
+        "desc_ar": "سيتم قطع التيار الكهربائي يوم 2 يوليو من الساعة 2 ظهرًا حتى 5 مساءً للصيانة",
+        "date": "2025-07-01 17:11:54"
+    },
+    {
+        "title_en": "Electricity Maintenance Schedule",
+        "title_ar": "جدول صيانة الكهرباء",
+        "desc_en": "Power will be interrupted on 2nd July from 2 PM to 5 PM for maintenance.",
+        "desc_ar": "سيتم قطع التيار الكهربائي يوم 2 يوليو من الساعة 2 ظهرًا حتى 5 مساءً للصيانة",
+        "date": "2025-07-01 17:18:54"
+    },
+    {
+        "title_en": "City Metro Services Suspended on Sunday",
+        "title_ar": "تعليق خدمات المترو في المدينة يوم الأحد",
+        "desc_en": "Due to scheduled maintenance, metro trains will not run this Sunday (7th July)",
+        "desc_ar": "بسبب أعمال الصيانة المجدولة، لن تعمل قطارات المترو هذا الأحد (7 يوليو)",
+        "date": "2025-07-01 17:22:10"
+    }
+]
