@@ -1,0 +1,139 @@
+/* Global styles */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Headings */
+h2 {
+    color: #333;
+    text-align: center;
+}
+
+/* Form styles */
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+}
+
+form button {
+    background-color: #007BFF;
+    color: #ffffff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #0056b3;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 15px;
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* News box styles */
+#news-container {
+    max-width: 800px;
+    margin: 30px auto;
+}
+
+.news-box {
+    background: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-left: 6px solid #007BFF;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.news-box h3 {
+    margin: 0 0 10px;
+    color: #333;
+}
+
+.news-box p {
+    color: #555;
+    margin: 0 0 10px;
+}
+
+.news-box small {
+    display: block;
+    color: #888;
+    text-align: right;
+    font-size: 13px;
+}
+
+/* Language toggle button */
+button.toggle-btn {
+    display: block;
+    margin: 10px auto;
+    background-color: #28a745;
+    padding: 10px 18px;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button.toggle-btn:hover {
+    background-color: #218838;
+}
+
+/* Arabic (RTL) content */
+.lang.ar {
+    display: none;
+    text-align: right;
+    direction: rtl;
+}
+
+.lang.en {
+    display: block;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    form, #news-container {
+        padding: 10px;
+    }
+
+    .news-box {
+        padding: 15px;
+    }
+
+    form input, form textarea {
+        font-size: 14px;
+    }
+
+    form button, .toggle-btn {
+        font-size: 14px;
+    }
+}
