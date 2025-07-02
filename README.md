@@ -3,7 +3,7 @@
 ## 🔐 Admin Panel
 
 - **URL:** `/admin.php`
-- **Username:** `admin`
+- **Username:** `admin'
 - **Password:** `12345`
 
 ## 📰 Public News Page
