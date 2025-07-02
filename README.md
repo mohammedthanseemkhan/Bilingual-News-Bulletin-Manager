@@ -8,7 +8,7 @@
 
 ## 📰 Public News Page
 
-- **URL:** `/index.php`
+- **URL:** `/index.php'
 - Displays the latest 5 posts
 - Supports bilingual toggle (English & Arabic)
 - Arabic is RTL using CSS
